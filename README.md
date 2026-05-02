@@ -16,7 +16,7 @@ A collection of job simulations completed via [Forage](https://www.theforage.com
 
 **Skills:** Excel · Data Analysis · Data Privacy · Database Design · SQL concepts
 
-📄 [View Certificate](certificates/CommonWealth_IntroToDataScience_JobSimulation_Cer.pdf)
+📄 [View Certificate](CommonWealth_IntroToDataScience_JobSimulation_Cer.pdf)
 
 ---
 
@@ -29,7 +29,7 @@ A collection of job simulations completed via [Forage](https://www.theforage.com
 
 **Skills:** Python · pandas · Generative AI · Financial Analysis · NLP concepts
 
-📄 [View Certificate](certificates/GenAI_Job_Simulation_BCGX.pdf)
+📄 [View Certificate](GenAI_Job_Simulation_BCGX.pdf)
 
 ---
 
@@ -43,7 +43,7 @@ A collection of job simulations completed via [Forage](https://www.theforage.com
 
 **Skills:** Excel · Tableau · Data Analytics · Forensic Technology · Business Intelligence
 
-📄 [View Certificate](certificates/DeloitteSimulation_completion_certificate.pdf)
+📄 [View Certificate](DeloitteSimulation_completion_certificate.pdf)
 
 ---
 
