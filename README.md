@@ -3,7 +3,7 @@
 
 A collection of job simulations completed via [Forage](https://www.theforage.com/), gaining hands-on experience with real-world data tasks from leading companies.
 
----
+
 
 ## 🏦 1. Commonwealth Bank – Introduction to Data Science
 **Completed:** May 2, 2026
@@ -18,7 +18,7 @@ A collection of job simulations completed via [Forage](https://www.theforage.com
 
 📄 [View Certificate](commonwealth-bank-data-science.pdf)
 
----
+
 
 ## 🤖 2. BCG X – GenAI Job Simulation
 **Completed:** May 1, 2026
@@ -31,7 +31,7 @@ A collection of job simulations completed via [Forage](https://www.theforage.com
 
 📄 [View Certificate](bcg-genai.pdf)
 
----
+
 
 ## 📊 3. Deloitte Australia – Data Analytics Job Simulation
 **Completed:** April 30, 2026
@@ -45,7 +45,7 @@ A collection of job simulations completed via [Forage](https://www.theforage.com
 
 📄 [View Certificate](deloitte-data-analytics.pdf)
 
----
+
 
 ## 🛠️ Skills Summary
 
@@ -57,6 +57,6 @@ A collection of job simulations completed via [Forage](https://www.theforage.com
 | AI & GenAI | Python, Chatbot development |
 | Data Privacy | Anonymisation techniques |
 
----
+
 
 *All simulations completed via [Forage](https://www.theforage.com/) — verified industry job simulations.*
